@@ -1,0 +1,24 @@
+-----Assignment-----
+
+1. Integers (int): Whole numbers, either positive, negative, or zero, without a fractional part. Example: x = 5
+
+2. Floating Point Numbers (float): Numbers with a fractional part, represented in decimal format. Example: x = 3.14
+
+3. Strings (str): Sequences of characters, such as words, sentences, or paragraphs,
+ enclosed in quotes. Example: x = "Hello, World!"
+
+4. Boolean (bool): A logical value that can be either True or False. Example: x = True
+
+5. Lists (list): Ordered collections of items, which can be of any data type, including strings, integers, floats,
+ and other lists. Example: x = [1, 2, 3, "hello"]
+
+6. Tuples (tuple): Ordered, immutable collections of items, which can be of any data type. Example: x = (1, 2, 3, "hello")
+
+7. Dictionaries (dict): Unordered collections of key-value pairs, where each key is unique and maps to a specific value.
+ Example: x = {"name": "John", "age": 30}
+
+8. Sets (set): Unordered collections of unique items, without duplicates. Example: x = {1, 2, 3, 4, 5}
+
+9. Complex Numbers (complex): Numbers with a real and imaginary part, represented as a + bj. Example: x = 3 + 4j
+
+10. NoneType (None): A special data type that represents the absence of a value or a null value. Example: x = None
