@@ -12,6 +12,6 @@ sellocation = input()
 if sellocation  == Location1:
     print("Enter a tricycle going to Holy Ghost then enter a bus that is heading towards Emene")
 elif sellocation == Location2:
- print("Enter a bus going to Abakpa then enter a tricycle that is heading towards Abakpa")
+ print("Enter a tricycle going to Holy Ghost then enter a bus that is heading towards Abakpa")
 else:
     print("Invalid location selected. Please choose either Emene or Abakpa.")
