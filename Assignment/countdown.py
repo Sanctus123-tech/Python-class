@@ -1,9 +1,25 @@
-# Countdown from 10 to 1
+# """
+# This
+# """
 
-import time   # To create delay
+# import time  
 
-for i in range(10, 0, -1):   # Start at 10, stop at 1
-    print(i)
-    time.sleep(1)   # Wait 1 second between numbers
+# for count in range(10, 0, -1):   
+#     print(count)
+#     time.sleep(1)   
 
-print("BOOM!!! ")
+# print("Time is up ")
+
+
+
+
+import time
+
+beginning = 10   # starting number
+end = 0          # stopping point (just before this number)
+
+for number in range(beginning, end, -1):   # from 10 down to 1
+    print(number)
+    time.sleep(1)
+
+print("Time is up!")
